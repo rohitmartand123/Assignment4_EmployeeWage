@@ -28,8 +28,8 @@ public class UC6_CalculatingWagestillNumberofWorkingDays {
 			totalempHrs += empHrs;
 			System.out.println("Day#: " + totalWorkingDays + " Emp Hr: " +empHrs);
 		}
-int totalempWage = totalempHrs * EMP_RATE_PER_HOUR;
-System.out.println("Total emp Wage: " + totalempWage);
+		int totalempWage = totalempHrs * EMP_RATE_PER_HOUR;
+	System.out.println("Total emp Wage: " + totalempWage);
 	}
 }
 
